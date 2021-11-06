@@ -3,7 +3,7 @@ layout: default
 title: Numbers
 nav_order: 8
 parent: Style Guide
-permalink: /numbers
+permalink: /style/numbers
 ---
 
 # Numbers
@@ -33,7 +33,7 @@ Despite the general rule above, maintain consistency within paragraphs where the
 > The results were based on 15 archival repository websites, 63 questionnaire responses, 9 interviews with Canadian archivists, 8 interviews with American archivists, and 17 policy and procedures documents.
 
 ## Inclusive Numbers (including Citations)
-### (a) Cite inclusive numbers according to the chart below. Always use an en-dash when citing inclusive numbers in text and in footnotes.
+**(a)** Cite inclusive numbers according to the chart below. Always use an en-dash when citing inclusive numbers in text and in footnotes.
 
 | First Number | Second Number | Examples
 | ------------ | --------------| --------
@@ -45,15 +45,15 @@ Despite the general rule above, maintain consistency within paragraphs where the
 
 **Table 1:** Inclusive numbers. Chart adapted from *Chicago Manual of Style*, 17th edition, pp. 566–67.
 
-### (b) Inclusive roman numerals are always written out in full.
+**(b)** Inclusive roman numerals are always written out in full.
 
-### (c) Use an en-dash (–), not a hyphen (-), to mean “up to and including”; do not use it if *from* or *between* are used to start a range of numbers.
+**(c)** Use an en-dash (–), not a hyphen (-), to mean “up to and including”; do not use it if *from* or *between* are used to start a range of numbers.
 
 *How to type an en-dash:*
 
-> On a Mac: hold down option and press the hyphen key.
+* On a Mac: hold down option and press the hyphen key.
 
-> On a PC: hold down Ctrl and press the hyphen key on the number pad.
+* On a PC: hold down Ctrl and press the hyphen key on the number pad.
 
 In text, *Archivaria*, like many publications nowadays, uses the en-dash, with spaces on either side, to stand for an em-dash because em-dashes can look very long.
 
@@ -61,7 +61,7 @@ Note the following instances of inclusive numbers other than pages:
 
 > He worked in Calgary <u>from</u> 1954 <u>to</u> 1973.
 
-> > *Never* “from/between 1954–1973.”
+* *Never* “from/between 1954–1973.”
 
 > Queen Anne’s War (1702–13)
 
@@ -78,7 +78,7 @@ En-dashes are also used in page ranges in citations:
 > Kent M. Haworth, “The Voyage of *RAD*: From the Old World to the New,” *Archivaria* 36 (Autumn 1993): 5–12.
 
 ## Dates
-### (a) *Archivaria* prefers the month-day-year format:
+**(a)** *Archivaria* prefers the month-day-year format:
 
 > August 27, 1942
 
@@ -88,11 +88,11 @@ Spell out months in text and in citations:
 
 > *Journal Title* 34 (October 2013)
 
-### (b) If using only month-year, do not use a comma, or the word *of*:
+**(b)** If using only month-year, do not use a comma, or the word *of*:
 
 > The conference was held in June 2003.
 
-### (c) When writing about decades, do not capitalize or use quotation marks. Do not use an apostrophe unless it is used to replace the century and it is clear from the context which century is being referred to:
+**(c)** When writing about decades, do not capitalize or use quotation marks. Do not use an apostrophe unless it is used to replace the century and it is clear from the context which century is being referred to:
 
 > the thirties (*not* the Thirties or the “thirties”)
 
@@ -100,7 +100,7 @@ Spell out months in text and in citations:
 
 > the mid-1980s – *but* late 1980s, early 1980s
 
-### (d) When using a century as an adjective, use hyphens to link all words that make up the adjective:
+**(d)** When using a century as an adjective, use hyphens to link all words that make up the adjective:
 
 > late-19th-century archives *but* in the late 19th century; mid-19th century
 
@@ -140,4 +140,6 @@ Follow the general rule for numbers in text:
 
 > Each author was paid 50 euros (spell out *euro* unless there are many instances, in which case the symbol can be used).
 
-> Ten cents of every dollar is put toward maintenance (spell out *Ten* because it is at the beginning of the sentence; spell out the word *cents*).
+> Ten cents of every dollar is put toward maintenance 
+
+* (spell out *Ten* because it is at the beginning of the sentence; spell out the word *cents*).

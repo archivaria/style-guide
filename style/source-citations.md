@@ -17,13 +17,13 @@ The abbreviation for “editor” is *ed.* and “editors” is *eds.* when comi
 
 *But*
 
-> <sup>5</sup>Terry Eastwood, “A Contested Realm: The Nature of Archives and the Orientation of Archival Science,” in *Currents of Archival Thinking*, ed. Terry Eastwood and Heather MacNeil (Santa Barbara, CA: Libraries Unlimited, 2010), 4–21.
+> <sup>5 </sup>Terry Eastwood, “A Contested Realm: The Nature of Archives and the Orientation of Archival Science,” in *Currents of Archival Thinking*, ed. Terry Eastwood and Heather MacNeil (Santa Barbara, CA: Libraries Unlimited, 2010), 4–21.
 
 In a footnote, there is no comma following an article that ends in a question mark (e.g., “Who Controls the Past?” *American Archivist*, etc.).
 
 However, please note the use of the comma in this shortened citation with a page number (example from *CMOS* 14.96):
 
-> <sup>9</sup> Batson, “How Social Is the Animal?,” 337.
+> <sup>9 </sup> Batson, “How Social Is the Animal?,” 337.
 
 Note that in citations, the place of publication is abbreviated in postal format (e.g. MA, ON, BC, NY. However, in running text, postal abbreviations are not used; instead, on first reference spell out the name of a province (e.g., the archivists at Queen’s University, Kingston, Ontario, ...).
 
@@ -31,6 +31,6 @@ Give an access date for online-only resources only if no publication or revision
 
 In footnotes, *American Archivist* appears without *the*). In text, it is “the *American Archivist*” (include *the* but set it in roman with a lower case *t*).
 
-Following* CMOS*,* Archivaria* does not use vol., or p. and pp. in citations unless they are necessary for clarity or if they are placed in brackets in a long explanation in a footnote. (Please note, however, that in the headings of *Archivaria* book reviews, the total number of pages is shown like this: 152 pp.)
+Following *CMOS*, *Archivaria* does not use vol., or p. and pp. in citations unless they are necessary for clarity or if they are placed in brackets in a long explanation in a footnote. (Please note, however, that in the headings of *Archivaria* book reviews, the total number of pages is shown like this: 152 pp.)
 
 [*See also inclusive numbers*](/style-guide/style/numbers#inclusive-numbers-including-citations)

@@ -47,21 +47,21 @@ has_toc: false
 <sup>35 </sup>Peter Horsman, Eric Ketelaar, and Theo Thomassen, “New Respect for the Old Order: The Context of the Dutch Manual,” *American Archivist* 66, no. 2 (Fall/Winter 2003): 240–70.
 
 ### *Article in Online Journal*
-<sup>35 </sup>Richard J. Cox, “The Great Newspaper Caper: Backlash in the Digital Age,” *First Monday* 5, no. 12 (December 2000), accessed May 7, 2004, http://firstmonday.org/issues/issue5_12/cox/.
+<sup>35 </sup>Richard J. Cox, “The Great Newspaper Caper: Backlash in the Digital Age,” *First Monday* 5, no. 12 (December 2000), accessed May 7, 2004, [http://firstmonday.org/issues/issue5_12/cox/](http://firstmonday.org/issues/issue5_12/cox/).
 
 
 ## Websites, Blogs, and Social Media (Full Citation)
 ### *Web Page (dated)*
-<sup>36 </sup>Association of Canadian Archivists, “Code of Ethics and Professional Conduct,” October 18, 2017, https://archivists.ca/sites/default/files/website_files/policy/aca_code_of_ethics_final_october_2017.pdf.
+<sup>36 </sup>Association of Canadian Archivists, “Code of Ethics and Professional Conduct,” October 18, 2017, [https://archivists.ca/sites/default/files/website_files/policy/aca_code_of_ethics_final_october_2017.pdf](https://archivists.ca/sites/default/files/website_files/policy/aca_code_of_ethics_final_october_2017.pdf).
 
 ### *Web Page (undated)*
-<sup>36 </sup>“Patent Expert Issues: Nanotechnology,” WIPO: World Intellectual Property Organization, accessed July 29, 2020, https://www.wipo.int/patents/en/topics/nanotechnology.html.
+<sup>36 </sup>“Patent Expert Issues: Nanotechnology,” WIPO: World Intellectual Property Organization, accessed July 29, 2020, [https://www.wipo.int/patents/en/topics/nanotechnology.html](https://www.wipo.int/patents/en/topics/nanotechnology.html).
 
 ### *Blog Post*
-<sup>36 </sup>Michael Geist, “What Open Government Hides,” *Michael Geist* (blog), December 1, 2014, http://www.michaelgeist.ca/2014/12/open-government-hides-2/.
+<sup>36 </sup>Michael Geist, “What Open Government Hides,” *Michael Geist* (blog), December 1, 2014, [http://www.michaelgeist.ca/2014/12/open-government-hides-2/](http://www.michaelgeist.ca/2014/12/open-government-hides-2/).
 
 ### *Social Media Content*
-<sup>36 </sup>Nikki Haley (@Nikki Haley), “UNESCO is among the most corrupt and politically biased UN agencies,” Twitter, January 1, 2019, 5:19 p.m., https://twitter.com/NikkiHaley/status/1080272354050297857.
+<sup>36 </sup>Nikki Haley (@Nikki Haley), “UNESCO is among the most corrupt and politically biased UN agencies,” Twitter, January 1, 2019, 5:19 p.m., [https://twitter.com/NikkiHaley/status/1080272354050297857](https://twitter.com/NikkiHaley/status/1080272354050297857)
 
 
 ## Theses (Full Citation)
@@ -133,7 +133,6 @@ Tables/charts appear below captions; any notes (*nota*) appear below table/chart
 In text, refer to figures and tables using lower case according to *CMOS*, e.g., “See figure 3 on page 12.”
 
 ## Epigraphs/Opening Quotations and Abstracts
-* Never include a citation in an abstract. This creates problems because abstracts are available individually via *e-Archivaria*, in which case the footnote would be divorced from the abstract.
 
 * Include a brief source note (i.e., author name and title of the work), preceded by an en-dash, on the line following an epigraph.
 

@@ -11,13 +11,13 @@ The authoritative reference source for punctuation is the  *Chicago Manual of St
 [See also instructions on use of periods in abbreviations and acronymns](/style-guide/style/abbreviations-and-acronymns).
 
 ## Quotation Marks
-### (a) Use double quotation marks (“ ”) to enclose a quotation; use single quotation marks (‘ ’) within a quotation:
+**(a)** Use double quotation marks (“ ”) to enclose a quotation; use single quotation marks (‘ ’) within a quotation:
 
 > The author notes that original order “is the equivalent of the 19th-century German idea of an accessible past – ‘wie es eigentlich gewesen,’ Ranke being its best known proponent.”
 
-### (b) Place periods and commas inside the closing quotation mark, whether or not the punctuation is part of the material being quoted.
+**(b)** Place periods and commas inside the closing quotation mark, whether or not the punctuation is part of the material being quoted.
 
-### (c) Colons and semicolons always follow the closing quotation mark:
+**(c)** Colons and semicolons always follow the closing quotation mark:
 
 > what he said”;
 
@@ -27,16 +27,18 @@ However, when used with a footnote number, they are placed before the number:
 
 > what he said”:<sup>5</sup>
 
-### (d) Placement of question marks and exclamation points depends on logic. If the punctuation belongs with the quotation, it comes within the closing quotation mark; if it is not part of the quotation, it goes after the closing quotation mark:
+**(d)** Placement of question marks and exclamation points depends on logic. If the punctuation belongs with the quotation, it comes within the closing quotation mark; if it is not part of the quotation, it goes after the closing quotation mark:
 
 > Who said, “Conscription if necessary but not necessarily conscription”?
 
 > “Where are you going?” he asked.
 
-### (e) Footnote numbers are placed outside quotation marks and parentheses. The only punctuation outside a footnote number is the dash:
+**(e)** Footnote numbers are placed outside quotation marks and parentheses. The only punctuation outside a footnote number is the dash:
 
 > “betray the organic integrity of archives by a trendy consumerism.” <sup>1</sup>
+
 > (as an aside)<sup>5</sup>
+
 > document<sup>3</sup> – and paper
 
 ## Possessive Apostrophes
