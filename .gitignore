@@ -1,0 +1,7 @@
+# Jekyll
+_pages/
+_site/
+
+#Mac/Windows System Files
+.DS_Store
+Thumbs.db
