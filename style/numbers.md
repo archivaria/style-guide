@@ -61,7 +61,7 @@ Note the following instances of inclusive numbers other than pages:
 
 > He worked in Calgary <u>from</u> 1954 <u>to</u> 1973.
 
-* *Never* “from/between 1954–1973.”
+> - *Never* “from/between 1954–1973.”
 
 > Queen Anne’s War (1702–13)
 
@@ -142,4 +142,4 @@ Follow the general rule for numbers in text:
 
 > Ten cents of every dollar is put toward maintenance 
 
-* (spell out *Ten* because it is at the beginning of the sentence; spell out the word *cents*).
+> * (spell out *Ten* because it is at the beginning of the sentence; spell out the word *cents*).
