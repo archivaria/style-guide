@@ -27,12 +27,14 @@ Submissions to *Archivaria* are judged on a case-by-case basis through a rigorou
 
 ## Format and Style
 
-The purpose of *Archivaria *is to educate, explore, and stimulate through the communication of ideas and information. Therefore, the writing must be clear, correct, and easy to read. Indeed, the more complicated or abstract the ideas, the greater the requirement for direct and unpretentious prose. Acronyms should be used sparingly, technical terms defined in simple words, and jargon avoided wherever possible. Authors should also avoid unsuitable statements concerning ethnicity and race, gender, sexual orientation, disability, etc.
+The purpose of *Archivaria* is to educate, explore, and stimulate through the communication of ideas and information. Therefore, the writing must be clear, correct, and easy to read. Indeed, the more complicated or abstract the ideas, the greater the requirement for direct and unpretentious prose. Acronyms should be used sparingly, technical terms defined in simple words, and jargon avoided wherever possible. Authors should also avoid unsuitable statements concerning ethnicity and race, gender, sexual orientation, disability, etc.
 
 Sources are to be cited using footnotes as set out in the *Chicago Manual of Style,* 17th ed. (Chicago: University of Chicago Press, 2017) or Kate L. Turabian, *A Manual for Writers of Term Papers, Theses, and Dissertations,* 9th ed. (Chicago: University of Chicago Press, 2018).
 
-For issues not addressed in the in-house style guide, *Archivaria * follows the *Chicago Manual of Style, *17th ed. (Chicago: University of Chicago Press, 2017).
+For issues not addressed in the in-house style guide, *Archivaria* follows the *Chicago Manual of Style,* 17th ed. (Chicago: University of Chicago Press, 2017).
 
 Spelling follows the *Canadian Oxford English Dictionary*, 2nd ed. (Toronto: Oxford University Press, 2004), unless otherwise noted in the list of spelling exceptions for *Archivaria* house style (see pp. 13–15).
 
-Those wishing further guidance in matters of format and style are invited to consult the standard reference works in writing and usage. For writing in English, the editors highly recommend William Strunk, Jr. and E.B. White, *The Elements of Style*, 4th ed. (Essex, Eng.: Pearson New International Edition, 2014). Additional help in achieving clear, direct writing may be found in *The New Fowler’s Modern English Usage*, 3rd rev. ed. (Oxford: Oxford University Press, 2004). A useful, albeit somewhat technical, work is *Editing Canadian English*, 2nd ed. (Toronto, 2000).
+Those wishing further guidance in matters of format and style are invited to consult the standard reference works in writing and usage. For writing in English, the editors highly recommend William Strunk, Jr. and E.B. White, *The Elements of Style*, 4th ed. (Essex, Eng.: Pearson New International Edition, 2014). 
+
+Additional help in achieving clear, direct writing may be found in *The New Fowler’s Modern English Usage*, 3rd rev. ed. (Oxford: Oxford University Press, 2004). A useful, albeit somewhat technical, work is *Editing Canadian English*, 2nd ed. (Toronto, 2000).
