@@ -6,7 +6,7 @@ parent: Style Guide
 permalink: /style/abbreviations-and-acronymns
 ---
 # Abbreviations and Acronyms
-Use the *Canadian Oxford* *Dictionary *for appropriate spelling and punctuation for abbreviations and acronyms. Abbreviations and acronyms used in text are usually spelled out in the first instance unless they are better known as an abbreviation or acronym:
+Use the *Canadian Oxford Dictionary* for appropriate spelling and punctuation for abbreviations and acronyms. Abbreviations and acronyms used in text are usually spelled out in the first instance unless they are better known as an abbreviation or acronym:
 
 > DNA, DVD, IQ, p.m.
 
@@ -58,9 +58,11 @@ Corporate websites are an easy way to check for information on the proper spelli
 
 > *Academic degrees*:
 
-> > * He received his master’s degree/his MLS/a library science degree in 2004 (lower case for generic reference; note the *’s*)
+> > - He received his master’s degree/his MLS/a library science degree in 2004 
+> >   - (lower case for generic reference; note the *’s*)
 
-> > * He completed a Master of Information Studies degree in 2004 (capitalize the full/official names of degrees in author biographies; note that the word *degree* is lower case and there is no *’s* on *Master*).
+> > - He completed a Master of Information Studies degree in 2004 
+> >   - (capitalize the full/official names of degrees in author biographies; note that the word *degree* is lower case and there is no *’s* on *Master*).
 
 ## Names with Initials
 For names of people where initials are used, do not put spaces between initials:
@@ -102,12 +104,12 @@ and following = 14ff. (page number, no space, then ff.)
 
 editor = ed. / editors = eds.
 
-> *But:*
+> <u>But</u>:
 
-- note that if the meaning is “edited by,” then *ed.* is always used (never *eds.*), as explained in *CMOS* 14.104.
+> - note that if the meaning is “edited by,” then *ed.* is always used (never *eds.*), as explained in *CMOS* 14.104.
 
-- For example,
-  - See Cindy Patton, “Refiguring Social Space,” in *Social Postmodernism: Beyond Identity Politics*, ed. Linda Nicholson and Steven Seidman (Cambridge: Cambridge University Press), 216–49.
+> - For example,
+>   - See Cindy Patton, “Refiguring Social Space,” in *Social Postmodernism: Beyond Identity Politics*, ed. Linda Nicholson and Steven Seidman (Cambridge: Cambridge University Press), 216–49.
 
 emphasis added by author: “(emphasis added)” at the end of the footnote, within parentheses
 

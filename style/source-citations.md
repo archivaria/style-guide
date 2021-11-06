@@ -13,7 +13,7 @@ Works cited in articles should be referenced in footnotes. *Archivaria* does not
 
 The abbreviation for “editor” is *ed.* and “editors” is *eds.* when coming after the author at the beginning of the citation. However, when it means “edited by” it is always *ed.* (no *s*) according to *CMOS*, 17th ed. 14.104. For example,
 
-> <sup>2 </sup>Nupur Chaudhuri, Sherry J. Katz, and Mary Elizabeth Perry, eds.,  *Contesting Archives: Finding Women in the Sources *(Urbana, IL: University of Illinois Press, 2010), xiii.
+> <sup>2 </sup>Nupur Chaudhuri, Sherry J. Katz, and Mary Elizabeth Perry, eds.,  *Contesting Archives: Finding Women in the Sources* (Urbana, IL: University of Illinois Press, 2010), xiii.
 
 *But*
 
