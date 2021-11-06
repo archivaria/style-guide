@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submitting Manuscripts
-nav_order: 2
+nav_order: 3
 permalink: /submitting
 has_children: true
 has_toc: false
