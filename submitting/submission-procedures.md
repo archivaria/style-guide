@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submission Procedures
-nav_order: 1
+nav_order: 2
 parent: Submitting Manuscripts
 permalink: /submitting/submission-procedures
 ---

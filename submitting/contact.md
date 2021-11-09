@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-nav_order: 2
+nav_order: 3
 parent: Submitting Manuscripts
 permalink: /submitting/contact
 ---
