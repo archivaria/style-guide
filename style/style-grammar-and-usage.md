@@ -8,7 +8,7 @@ permalink: /style/style-grammar-and-usage
 
 # General Guidance on Style, Grammar, and Usage 
 
-The purpose of *Archivaria* is to educate, explore, and stimulate through the communication of ideas and information to its readers. Clear and concise expression of ideas is a standard on which *Archivaria* assesses suitability for publication. Simple, clear, grammatically correct prose facilitates the communication of ideas. Indeed, the more complicated or abstract the ideas, the greater the requirement for clear, direct, and unpretentious writing. Acronyms should be used sparingly, technical terms defined in simple words, and jargon avoided whenever possible.
+The purpose of *Archivaria* is to educate, explore, and stimulate through the communication of ideas and information. Therefore, the writing must be clear, correct, and easy to read. Indeed, the more complicated or abstract the ideas, the greater the requirement for direct and unpretentious prose. Acronyms should be used sparingly, technical terms defined in simple words, and jargon avoided wherever possible. Authors should also avoid unsuitable statements concerning ethnicity and race, gender, sexual orientation, disability, etc. Constructive and respectful critiques are welcome, but authors should refrain from personal attacks or statements that harm the reputation of individuals, groups or organizations.
 
 There are many good reference books on the rules of grammar. Authors can find a chapter on grammar in the *Chicago Manual of Style*. Strunk and White’s *Elements of Style* is also useful.
 
