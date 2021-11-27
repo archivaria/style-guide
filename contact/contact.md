@@ -15,6 +15,7 @@ To contact any other member of the *Archivaria* [Editorial Team](https://archiva
 * Emilie Létourneau, French Language Editor - [fr.lang.editor@archivists.ca](mailto:fr.lang.editor@archivists.ca).
 * Renaud Séguin, French Language Book and Exhibition Review Editor - [fr.review.editor@archivists.ca](mailto:fr.review.editor@archivists.ca).
 
+---
 The *Archivaria* mailing address is: 
 > *Archivaria* c/o Association of Canadian Archivists <br>Suite 1912 – 130 Albert Street<br> Ottawa, Ontario<br> K1P 5G4
 
