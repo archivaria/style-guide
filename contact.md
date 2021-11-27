@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Contact
-nav_order: 3
-parent: Submitting Manuscripts
-permalink: /submitting/contact
+nav_order: 4
+permalink: /contact
 ---
 # How to Contact *Archivaria*
 
