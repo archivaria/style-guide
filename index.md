@@ -2,7 +2,7 @@
 layout: default
 title: About
 nav_order: 1
-description: "Archivaria Style Guide"
+description: "Archivaria Submissions & Style Guide"
 permalink: /
 has_children: false
 ---
@@ -10,7 +10,7 @@ has_children: false
 
 # About
 
-*Archivaria*’s style guide, created in 1995 and updated several times since, evolved from a specialized in-house style sheet that provided authors with brief guidelines on matters of style, source citations, and manuscript submission. What follows are general submission instructions and basic guidelines, with examples of the style to use when writing for  *Archivaria*. This guide is not meant to be comprehensive. Rather, the intent is to provide pointers on some of the more common issues that arise. Authors are still encouraged to consult the authoritative sources directly.
+*Archivaria*’s Submissions & Style Guide, created in 1995 and updated several times since, evolved from a specialized in-house style sheet that provided authors with brief guidelines on matters of style, source citations, and manuscript submission. What follows are general submission instructions and basic guidelines, with examples of the style to use when writing for  *Archivaria*. This guide is not meant to be comprehensive. Rather, the intent is to provide pointers on some of the more common issues that arise. Authors are still encouraged to consult the authoritative sources directly.
 
 ## About *Archivaria*
 
