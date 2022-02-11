@@ -28,7 +28,7 @@ Authors whose articles include reproductions of works in which the rights are ow
 In the case of previously published content about or from Indigenous People, authors should be aware that this content may have been published without proper consent or may not have been reproduced accurately and must consult with the Indigenous People who own this particular cultural property for advice about permission to reproduce.
 
 ### Image Checklist
-At the time of initial submission, authors must also provide a completed [Author Checklist for the Use of Images in Archivaria](https://archivists_ca.formstack.com/forms/author_checklist_images), which is a list of the illustrative material that the author wishes to use and a complete statement of all rights and permission requirements to use reproductions of works in which the rights are owned by third parties.
+Right after submitting their manuscript, authors must provide a completed [Author Checklist for the Use of Images in Archivaria](https://archivists_ca.formstack.com/forms/author_checklist_images), which is a list of the illustrative material that the author wishes to use and a complete statement of all rights and permission requirements to use reproductions of works in which the rights are owned by third parties.
 
 *Archivaria* reserves the right to refuse to publish any article where rights or licensing agreements related to third-party material are time limited or otherwise restrictive of future use.
 
