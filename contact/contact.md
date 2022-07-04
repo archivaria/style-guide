@@ -7,7 +7,7 @@ has_children: false
 ---
 # How to Contact *Archivaria*
 
-All questions regarding submissions, excluding book and exhibition reviews, should be directed to the General Editor, Fiorella Foscarini [general.editor@archivists.ca](mailto:general.editor@archivists.ca). 
+All questions regarding submissions, excluding book and exhibition reviews, should be directed to the General Editor, Heather Home [general.editor@archivists.ca](mailto:general.editor@archivists.ca). 
 
 To contact any other member of the *Archivaria* [Editorial Team](https://archivaria.ca/index.php/archivaria/about/editorialTeam):
 * Alexandra Wieland, Book Reviews Editor - [book.review.editor@archivists.ca](mailto:book.review.editor@archivists.ca).
