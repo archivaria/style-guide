@@ -10,10 +10,10 @@ has_children: false
 All questions regarding submissions, excluding book and exhibition reviews, should be directed to the General Editor, Heather Home - [general.editor@archivists.ca](mailto:general.editor@archivists.ca). 
 
 To contact any other member of the *Archivaria* [Editorial Team](https://archivaria.ca/index.php/archivaria/about/editorialTeam):
-* Alexandra Wieland, Book Reviews Editor - [book.review.editor@archivists.ca](mailto:book.review.editor@archivists.ca).
+* Jennifer Douglas, Book Reviews Editor - [book.review.editor@archivists.ca](mailto:book.review.editor@archivists.ca).
 * Kristy Waller, Exhibition and Film Reviews Editor - [exhibit.review.editor@archivists.ca](mailto:exhibit.review.editor@archivists.ca).
 * François Dansereau, French Language Editor - [fr.lang.editor@archivists.ca](mailto:fr.lang.editor@archivists.ca).
-* Siham Alaoui, French Language Book and Exhibition Review Editor - [fr.review.editor@archivists.ca](mailto:fr.review.editor@archivists.ca).
+* French Language Book and Exhibition Review Editor - [fr.review.editor@archivists.ca](mailto:fr.review.editor@archivists.ca).
 
 ---
 The *Archivaria* mailing address is: 
